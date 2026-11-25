@@ -178,7 +178,24 @@ npx expo run:ios
 
 ---
 
-## 六、默认地址
+## 六、iOS 网页全屏 / 添加到主屏幕
+
+Web 端已经加入 PWA 配置（`web/public/manifest.webmanifest`、Apple meta、桌面图标）：
+
+1. iPhone 用 **Safari** 打开 `http://电脑IP:3000`；
+2. 点击底部 **分享**；
+3. 选择 **添加到主屏幕**；
+4. 从桌面图标打开，会以 standalone 模式运行，不显示 Safari 地址栏和工具栏。
+
+说明：
+
+- iOS 不允许普通 Safari 页面通过 JS 隐藏地址栏 / 状态栏，这是系统限制；添加到主屏幕是网页端最接近全屏的方式。
+- PWA 模式仍会显示 iOS 系统状态栏（时间、电量）。
+- 如果要彻底没有系统状态栏，只能用原生 App，并在代码里隐藏状态栏。
+
+---
+
+## 七、默认地址
 
 `mobile/app.json` 中：
 

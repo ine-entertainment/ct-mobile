@@ -1,0 +1,32 @@
+{
+  "name": "未命名项目 · 旅行拍照租衣平台",
+  "short_name": "未命名项目",
+  "description": "旅行拍照租衣与旅拍预约平台：租衣、妆造、摄影、酒店送达与归还。",
+  "lang": "zh-CN",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAF5EE",
+  "theme_color": "#FAF5EE",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
