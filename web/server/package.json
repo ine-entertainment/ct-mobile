@@ -1,0 +1,18 @@
+﻿{
+  "name": "cloth-travel-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "未命名项目 · 旅行租衣 / 旅拍平台后端",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "reset": "node reset.js"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

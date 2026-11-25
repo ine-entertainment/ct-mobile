@@ -1,0 +1,35 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Expo / React Native
+mobile/.expo/
+mobile/dist/
+mobile/dist-check/
+mobile/dist-web/
+mobile/web-build/
+mobile/android/
+mobile/ios/
+mobile/artifacts/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Web runtime
+web/server/data/
+web/server/*.db
+web/server/*.db-wal
+web/server/*.db-shm
+.env
+*.local
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.openchamber/
+*.log

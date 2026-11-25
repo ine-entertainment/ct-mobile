@@ -1,0 +1,585 @@
+{
+  "products": [
+    {
+      "id": "white",
+      "title": "海风白色法式长裙",
+      "price": 129,
+      "deposit": 500,
+      "rating": 4.9,
+      "reviews": 86,
+      "img": "white-dress",
+      "gallery": [
+        "white-dress",
+        "floral-dress",
+        "desert-set"
+      ],
+      "styles": [
+        "海岛",
+        "法式"
+      ],
+      "badge": "本周人气 TOP1",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "fit": "宽松 · 面料微弹",
+      "model": "168cm / 50kg · 穿 S",
+      "merchant": "阿岚旅拍礼服馆",
+      "includes": "长裙 + 草帽 + 藤编包",
+      "real": [
+        "white-dress",
+        "floral-dress",
+        "model-2"
+      ]
+    },
+    {
+      "id": "floral",
+      "title": "海边碎花度假裙",
+      "price": 139,
+      "deposit": 500,
+      "rating": 4.8,
+      "reviews": 64,
+      "img": "floral-dress",
+      "gallery": [
+        "floral-dress",
+        "white-dress",
+        "hero-beach"
+      ],
+      "styles": [
+        "海岛",
+        "法式"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "fit": "收腰 · 无弹",
+      "model": "165cm / 48kg · 穿 S",
+      "merchant": "小野旅拍礼服馆",
+      "includes": "连衣裙 + 发带",
+      "real": [
+        "floral-dress",
+        "hero-beach",
+        "model-3"
+      ]
+    },
+    {
+      "id": "desert",
+      "title": "沙丘白色套装",
+      "price": 149,
+      "deposit": 600,
+      "rating": 4.8,
+      "reviews": 42,
+      "img": "desert-set",
+      "gallery": [
+        "desert-set",
+        "white-dress",
+        "mountain"
+      ],
+      "styles": [
+        "海岛",
+        "城市"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "fit": "高腰 · 微弹",
+      "model": "170cm / 52kg · 穿 M",
+      "merchant": "小野旅拍礼服馆",
+      "includes": "上衣 + 短裤 + 腰封",
+      "real": [
+        "desert-set",
+        "mountain",
+        "model-1"
+      ]
+    },
+    {
+      "id": "blue",
+      "title": "米兰蓝色风衣",
+      "price": 159,
+      "deposit": 600,
+      "rating": 4.7,
+      "reviews": 38,
+      "img": "blue-coat",
+      "gallery": [
+        "blue-coat",
+        "italy",
+        "venice"
+      ],
+      "styles": [
+        "城市",
+        "法式"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "fit": "廓形 · 有腰带",
+      "model": "168cm / 50kg · 穿 M",
+      "merchant": "陈一城市衣橱",
+      "includes": "风衣 + 腰带",
+      "real": [
+        "blue-coat",
+        "italy",
+        "model-2"
+      ]
+    },
+    {
+      "id": "black",
+      "title": "夜色黑色长外套",
+      "price": 169,
+      "deposit": 700,
+      "rating": 4.9,
+      "reviews": 51,
+      "img": "black-coat",
+      "gallery": [
+        "black-coat",
+        "old-street",
+        "venice"
+      ],
+      "styles": [
+        "城市",
+        "复古"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "fit": "直筒 · 垂坠",
+      "model": "167cm / 49kg · 穿 S",
+      "merchant": "陈一城市衣橱",
+      "includes": "外套 + 胸针",
+      "real": [
+        "black-coat",
+        "old-street",
+        "model-1"
+      ]
+    },
+    {
+      "id": "red",
+      "title": "日落复古红卫衣",
+      "price": 99,
+      "deposit": 400,
+      "rating": 4.7,
+      "reviews": 29,
+      "img": "red-sweat",
+      "gallery": [
+        "red-sweat",
+        "model-1",
+        "yellow-set"
+      ],
+      "styles": [
+        "复古",
+        "城市"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "fit": "宽松 · 加绒",
+      "model": "166cm / 47kg · 穿 M",
+      "merchant": "后海小卖部",
+      "includes": "卫衣 + 棒球帽",
+      "real": [
+        "red-sweat",
+        "model-1",
+        "yellow-set"
+      ]
+    },
+    {
+      "id": "yellow",
+      "title": "柠檬黄 citywalk 套装",
+      "price": 119,
+      "deposit": 450,
+      "rating": 4.8,
+      "reviews": 33,
+      "img": "yellow-set",
+      "gallery": [
+        "yellow-set",
+        "italy",
+        "blue-coat"
+      ],
+      "styles": [
+        "城市",
+        "复古"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "fit": "运动廓形",
+      "model": "170cm / 52kg · 穿 M",
+      "merchant": "陈一城市衣橱",
+      "includes": "卫衣 + 阔腿裤",
+      "real": [
+        "yellow-set",
+        "italy",
+        "model-3"
+      ]
+    },
+    {
+      "id": "green",
+      "title": "复古绿针织上衣",
+      "price": 89,
+      "deposit": 350,
+      "rating": 4.6,
+      "reviews": 22,
+      "img": "green-top",
+      "gallery": [
+        "green-top",
+        "model-3",
+        "floral-dress"
+      ],
+      "styles": [
+        "复古",
+        "法式"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "fit": "短款 · 微弹",
+      "model": "164cm / 46kg · 穿 S",
+      "merchant": "后海小卖部",
+      "includes": "针织上衣 + 珍珠项链",
+      "real": [
+        "green-top",
+        "model-3",
+        "floral-dress"
+      ]
+    }
+  ],
+  "photographers": [
+    {
+      "id": "alan",
+      "name": "阿岚",
+      "title": "海岛情绪片 / 胶片感",
+      "avatar": "photographer-2",
+      "cover": "white-dress",
+      "rating": 4.9,
+      "orders": 268,
+      "price": 699,
+      "tags": [
+        "海岛",
+        "闺蜜",
+        "胶片"
+      ],
+      "works": [
+        "white-dress",
+        "floral-dress",
+        "hero-beach"
+      ],
+      "bio": "常驻三亚，擅长把海风、逆光和笑声拍进画面。不摆拍，先聊天再按快门。",
+      "package": {
+        "title": "2 小时海岛跟拍",
+        "desc": "适合 1-2 人 · 海边/椰林 · 含路线建议",
+        "price": 899,
+        "deposit": 269,
+        "includes": [
+          "1 套服装",
+          "9 张精修",
+          "全部底片",
+          "路线建议"
+        ]
+      }
+    },
+    {
+      "id": "xiaoye",
+      "name": "小野",
+      "title": "椰林故事感 / 新中式",
+      "avatar": "model-3",
+      "cover": "old-street",
+      "rating": 4.8,
+      "orders": 156,
+      "price": 599,
+      "tags": [
+        "新中式",
+        "椰林",
+        "情侣"
+      ],
+      "works": [
+        "old-street",
+        "temple",
+        "design-set"
+      ],
+      "bio": "喜欢自然光和旧街巷，拍过 300+ 组游客。会提前帮你踩点，告诉你几点光线最好。",
+      "package": {
+        "title": "1.5 小时椰林跟拍",
+        "desc": "适合 1-2 人 · 椰林/老街 · 可加妆造",
+        "price": 699,
+        "deposit": 209,
+        "includes": [
+          "1 套服装",
+          "6 张精修",
+          "全部底片",
+          "妆造建议"
+        ]
+      }
+    },
+    {
+      "id": "chenyi",
+      "name": "陈一",
+      "title": "城市夜景 / 辣妹风",
+      "avatar": "model-1",
+      "cover": "venice",
+      "rating": 4.9,
+      "orders": 203,
+      "price": 799,
+      "tags": [
+        "夜景",
+        "街拍",
+        "辣妹"
+      ],
+      "works": [
+        "venice",
+        "italy",
+        "blue-coat"
+      ],
+      "bio": "三亚夜景和海边蓝调时刻爱好者。擅长用一盏灯，把普通街角拍成电影。",
+      "package": {
+        "title": "2 小时夜景街拍",
+        "desc": "适合 1-2 人 · 夜景/街头 · 含补光",
+        "price": 999,
+        "deposit": 299,
+        "includes": [
+          "1 套服装",
+          "10 张精修",
+          "全部底片",
+          "补光设备"
+        ]
+      }
+    }
+  ],
+  "makeupArtists": [
+    {
+      "id": "m1",
+      "name": "小雅",
+      "title": "清透海岛妆",
+      "avatar": "model-1",
+      "desc": "擅长防晒不脱妆、原生感睫毛，海边拍摄 8 小时不花。",
+      "tags": [
+        "清透",
+        "海岛",
+        "持妆"
+      ],
+      "price": 299
+    },
+    {
+      "id": "m2",
+      "name": "可可",
+      "title": "新中式 / 簪花",
+      "avatar": "model-2",
+      "desc": "汉服、新中式、簪花造型，可上门，含发型和配饰。",
+      "tags": [
+        "新中式",
+        "簪花",
+        "上门"
+      ],
+      "price": 399
+    },
+    {
+      "id": "m3",
+      "name": "阿蔓",
+      "title": "泰妆 / 辣妹",
+      "avatar": "model-3",
+      "desc": "泰式混血妆、截断眼妆，适合夜景和街拍。",
+      "tags": [
+        "泰妆",
+        "辣妹",
+        "夜景"
+      ],
+      "price": 359
+    }
+  ],
+  "posts": [
+    {
+      "id": "p1",
+      "user": "林小鹿",
+      "avatar": "model-2",
+      "city": "三亚 · 亚龙湾",
+      "time": "2 小时前",
+      "images": [
+        "white-dress",
+        "hero-beach"
+      ],
+      "text": "在三亚的第三天，白裙真的不会出错。租的这套含草帽和藤编包，送到酒店前台，离店直接让骑手取走，押金当天就退了。",
+      "tags": [
+        "#三亚穿什么",
+        "#海边穿搭",
+        "#租衣体验"
+      ],
+      "product": "white",
+      "likes": 1286,
+      "comments": 84
+    },
+    {
+      "id": "p2",
+      "user": "阿梨",
+      "avatar": "model-3",
+      "city": "三亚 · 后海村",
+      "time": "昨天",
+      "images": [
+        "floral-dress",
+        "resort"
+      ],
+      "text": "闺蜜旅拍全记录：租衣 139 + 妆造 299 + 摄影 899，比买一套裙子再找店便宜，而且不用自己洗。",
+      "tags": [
+        "#闺蜜旅拍",
+        "#后海村"
+      ],
+      "product": "floral",
+      "likes": 892,
+      "comments": 56
+    },
+    {
+      "id": "p3",
+      "user": "Momo",
+      "avatar": "model-1",
+      "city": "三亚 · 天涯镇",
+      "time": "3 天前",
+      "images": [
+        "blue-coat"
+      ],
+      "text": "蓝白小巷配蓝色风衣，被路人问了三次链接。其实是租的，三天 159，太适合只穿一次的场景。",
+      "tags": [
+        "#天涯镇",
+        "#城市街拍"
+      ],
+      "product": "blue",
+      "likes": 643,
+      "comments": 31
+    }
+  ],
+  "orders": [
+    {
+      "id": "r1",
+      "type": "rental",
+      "status": "待发货",
+      "statusSub": "商家正在消毒打包，预计 3/10 18:00 前发出",
+      "title": "海风白色法式长裙",
+      "image": "white-dress",
+      "date": "3/12 - 3/15 · 3 天",
+      "merchant": "阿岚旅拍礼服馆",
+      "orderNo": "YY202603120086",
+      "paid": 633,
+      "deposit": 500,
+      "timeline": [
+        {
+          "label": "支付成功",
+          "time": "3/9 21:08",
+          "state": "done"
+        },
+        {
+          "label": "商家消毒打包",
+          "time": "预计 3/10 18:00 前",
+          "state": "current"
+        },
+        {
+          "label": "配送到酒店",
+          "time": "预计 3/11 14:00 前",
+          "state": "todo"
+        },
+        {
+          "label": "使用中",
+          "time": "3/12 - 3/15",
+          "state": "todo"
+        },
+        {
+          "label": "归还 / 退押金",
+          "time": "3/16 前",
+          "state": "todo"
+        }
+      ]
+    },
+    {
+      "id": "p1",
+      "type": "photo",
+      "status": "待服务",
+      "statusSub": "3/13 15:00 · 阿岚 · 亚龙湾海边",
+      "title": "阿岚 · 2 小时海岛跟拍",
+      "image": "floral-dress",
+      "date": "3/13 15:00",
+      "merchant": "阿岚摄影工作室",
+      "orderNo": "YYP202603130012",
+      "paid": 269,
+      "balance": 630,
+      "deposit": 269,
+      "timeline": [
+        {
+          "label": "定金支付",
+          "time": "3/9 21:08",
+          "state": "done"
+        },
+        {
+          "label": "摄影师确认",
+          "time": "3/9 21:30",
+          "state": "done"
+        },
+        {
+          "label": "待拍摄",
+          "time": "3/13 15:00 · 亚龙湾",
+          "state": "current"
+        },
+        {
+          "label": "选片",
+          "time": "拍摄后 7 天内",
+          "state": "todo"
+        },
+        {
+          "label": "精修交付",
+          "time": "选片后 15 天内",
+          "state": "todo"
+        }
+      ]
+    },
+    {
+      "id": "r0",
+      "type": "rental",
+      "status": "已完成",
+      "statusSub": "押金 ¥500 已原路退回",
+      "title": "海边碎花度假裙",
+      "image": "floral-dress",
+      "date": "2/14 - 2/17 · 3 天",
+      "merchant": "小野旅拍礼服馆",
+      "orderNo": "YY202602140032",
+      "paid": 639,
+      "deposit": 500,
+      "timeline": [
+        {
+          "label": "支付成功",
+          "time": "2/11 18:20",
+          "state": "done"
+        },
+        {
+          "label": "商家发货",
+          "time": "2/12 10:12",
+          "state": "done"
+        },
+        {
+          "label": "签收 / 使用",
+          "time": "2/13 14:06",
+          "state": "done"
+        },
+        {
+          "label": "归还 / 质检",
+          "time": "2/18 11:30",
+          "state": "done"
+        },
+        {
+          "label": "押金退回",
+          "time": "2/19 09:42",
+          "state": "done"
+        }
+      ]
+    }
+  ]
+}
